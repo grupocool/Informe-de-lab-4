@@ -9,7 +9,7 @@
  
  **Docente:** Ing. Darwin Alulema.
  
- **Tema:** 
+ **Tema:** Teorema de Thevenin
 # 1. Objetivo General
 - 
 
@@ -42,12 +42,13 @@
 - Calculos realizados en la simulacion
 
 
-5.2 Valores de la tabla de medicion de voltaje utilizando 
+5.2 Valores del Circuito equivalente de Thevenin
 
+![WhatsApp Image 2021-07-21 at 17 28 42](https://user-images.githubusercontent.com/85137954/126568066-9a829e45-1264-4724-90e7-2539da593a29.jpeg)
 
-5.3 Valores de la tabla de medicion de corriente utilizando 
+5.3 Comprobacion del Teorema de Thevenin
 
-
+![WhatsApp Image 2021-07-21 at 17 28 47](https://user-images.githubusercontent.com/85137954/126568074-5b9aba59-80cc-4876-84b8-524f97966464.jpeg)
 
 # 6. Video
 
