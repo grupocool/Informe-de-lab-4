@@ -27,7 +27,7 @@
 
 # 4. Material y Equipo Requerido
 
-
+![WhatsApp Image 2021-07-21 at 17 29 42](https://user-images.githubusercontent.com/85137954/126568183-acc50bcc-145a-4014-b086-637dc75a0c78.jpeg)
 
 # 5. Explicación del procedimiento
 
