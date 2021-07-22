@@ -19,7 +19,13 @@
 
 # 2. Requisitos Previos
 
+![image](https://user-images.githubusercontent.com/85137954/126643617-31ce77c7-264c-45ea-8697-7fa8df31ea44.png)
 
+![image](https://user-images.githubusercontent.com/85137954/126643766-aa52e8e3-4bae-4852-ab9d-82bcbe58dd27.png)
+
+![image](https://user-images.githubusercontent.com/85137954/126643934-fe6240d4-4d30-4d89-b59d-77148667a6ac.png)
+
+![image](https://user-images.githubusercontent.com/85137954/126644061-4fae09a2-1101-4c19-9880-66211b3aa226.png)
 
 # 3. Marco Teórico
 
