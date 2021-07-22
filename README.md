@@ -39,14 +39,26 @@
 
 5.1 Arme el circuito que se muestra en la figura
 
+![image](https://user-images.githubusercontent.com/85137954/126644202-b01e596a-8251-44db-9c4d-53608d625d03.png)
 
+- 5.5.2. Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
 
-- Simulacion del circuito construido en Tinkercad
+![image](https://user-images.githubusercontent.com/85137954/126644530-da0a9471-0bb8-4494-bb8d-82f6c1680135.png)
 
+- 5.5.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor
+medido en la tabla 5.1.
 
+![image](https://user-images.githubusercontent.com/85137954/126644659-d9ba92d2-78d9-4b2e-b899-5761aeeab12a.png)
 
-- Calculos realizados en la simulacion
+- 5.5.4. Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito
+abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
 
+![image](https://user-images.githubusercontent.com/85137954/126644833-2a14bbea-dce7-4595-baf6-4348a6140b24.png)
+
+-5.5.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la
+corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
+
+![image](https://user-images.githubusercontent.com/85137954/126644922-5f381459-3643-43be-afbb-93c03a327c25.png)
 
 5.2 Valores del Circuito equivalente de Thevenin
 
