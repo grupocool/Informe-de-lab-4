@@ -13,7 +13,8 @@
 # 1. Objetivo General
 
 - Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo.
-- 
+
+
 ## 1.2 Objetivos Específicos
 
 
