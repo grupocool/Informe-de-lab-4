@@ -70,12 +70,19 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 # 6. Video
 
-
-
 # 7. Conclusiones
 
-
-
 # 8. Referencias
+
+- Del Toro, V. Engineering Circuits. Englewood Cliffs, NJ: Prentice  Hall, 1987
+
+- Dorf, R. C., y J. A. Svoboda. Introduction to Electric Circuits.
+4a. ed. Nueva York: John Wiley & Sons, 1999.
+
+- Edminister, J. Schaum´s Outline of Electric Circuits. 3a. ed.
+Nueva York: McGraw-Hill, 1996.
+
+- Franco, S. Electric Circuits Fundamentals, Fort Worth, FL:
+Saunders College Publishing, 1995.
 
 
