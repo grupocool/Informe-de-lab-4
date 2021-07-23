@@ -17,6 +17,8 @@
 
 ## 1.2 Objetivos Específicos
 
+- Familiarizar al alumno con el teorema de thevenin, de manera teórica, experimental y matemática.
+- Aprender mediante el desarrollo de una serie de pasos que se llevarán de forma matemática, además de una comparación de los resultados obtenidos apoyados con herramientas como tinkercad.
 
 
 # 2. Requisitos Previos
@@ -72,7 +74,13 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 # 6. Video
 
+https://youtu.be/-6F-vhde0BQ
+
 # 7. Conclusiones
+
+- El teorema de Thevenin nos ayuda a convertir un circuito complicado ( que tenga dos terminales), en uno muy simple con un voltaje y resistencia equivalente.
+- Aprendimos que principalmente hay que cortocircuitar las fuentes de voltaje. 
+- El porcentaje de error es mínimo al 1%, por lo tanto podemos concluir  que es un error extremadamente bajo y casi exacto. Por lo que podemos decir que la práctica fue satisfactoria.
 
 # 8. Referencias
 
