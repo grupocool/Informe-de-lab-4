@@ -31,7 +31,7 @@
 
 # 3. Marco Teórico
 
-
+![WhatsApp Image 2021-07-21 at 19 52 23](https://user-images.githubusercontent.com/85137954/126723986-76c34239-76f5-420f-90f8-24d3c68dec10.jpeg)
 
 # 4. Material y Equipo Requerido
 
